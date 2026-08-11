@@ -1,0 +1,44 @@
+.stam,.active{
+    background-color: white;
+    padding: 15px;
+    border-radius: 7px;
+    margin: 1vw;
+    border:0;
+}
+.active{
+    background-color:#d9d9d9;
+}
+/* .liImg{
+    display: flex;
+    flex-direction:column;
+    width: 15vw;
+    
+} */
+img{
+    width: 15vw;
+    height: 25vh;
+}
+.divList{
+    display: flex;
+    padding: 2vw;
+    list-style: none;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.LittelCart{
+    width: 25vw;
+    align-items: center;
+    text-align: center;
+    /* border: black solid 1px; */
+    border-radius: 7px;
+}
+.ulLittel{
+    list-style: none;
+    padding: 0;
+}
+.check{
+    background-color: rgb(251, 251, 243);
+    border: 2px solid black;
+    padding: 10px;
+    border-radius: inherit;
+}

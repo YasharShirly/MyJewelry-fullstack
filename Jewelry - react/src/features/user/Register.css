@@ -1,0 +1,15 @@
+/* .addReg{ */
+        /* display: flex;
+        flex-direction: column;
+        width: 20vw; */
+        /* border: 2px solid black; */
+        /* border-radius: 2vw; */
+        /* padding: 2vw; */
+        /* margin: 2vw; */
+        /* background-color: rgb(251, 251, 243); */
+/* } */
+.button{
+        background-color: rgb(251, 251, 243);
+        color: black;
+        font-family: system-ui;
+}

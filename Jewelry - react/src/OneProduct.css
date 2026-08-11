@@ -1,0 +1,30 @@
+.add{
+    width: 2vw;
+    border: linen;
+    color: white;
+    border-radius: 8vw;
+    background-color:ivory;
+    font-size: large;
+    padding: 5px;
+}
+.add:hover{
+    border: black 1px solid;
+    background-color:gainsboro; 
+}
+.liImg{
+    display: flex;
+    flex-direction:column;
+    padding: 1vw;
+    /* padding: inherit; */
+    /* width: 15vw;
+    justify-content: space-around; */
+    /* box-shadow: var(--Paper-shadow);
+    --Paper-shadow: 0px 2px 4px -1px rgba(0, 0, 0, 0.2), 0px 4px 5px 0px rgba(0, 0, 0, 0.14), 0px 1px 10px 0px rgba(0, 0, 0, 0.12);
+    border-radius: 2%; */
+}
+/* .oneul{ 
+
+    border: 1vw whitesmoke solid;
+    background-color: white;
+    border-radius: 5vw; 
+ } */
